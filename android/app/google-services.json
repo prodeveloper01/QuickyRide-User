@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "514759894357",
+    "project_id": "quicky-ride",
+    "storage_bucket": "quicky-ride.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514759894357:android:c38cc3e1790f0561373bdc",
+        "android_client_info": {
+          "package_name": "com.quickly.ride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514759894357-s61kif2abpq3p2aeqjsv70qo8qcu6e1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickly.ride",
+            "certificate_hash": "c522dd0cff1f31177669268f7c4c0111c461f8b1"
+          }
+        },
+        {
+          "client_id": "514759894357-1an1g5uf8h573jr043jg8ammbudmk95q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM6AUAy-wZ5EZDdzxXiFT98C2OmomwcQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514759894357-1an1g5uf8h573jr043jg8ammbudmk95q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
